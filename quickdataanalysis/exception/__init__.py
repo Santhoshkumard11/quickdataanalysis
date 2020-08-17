@@ -1,0 +1,1 @@
+from quickdataanalysis.exceptions.quickdataanalysis_exception import QuickdataAnalysis
