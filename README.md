@@ -1,13 +1,9 @@
 # quick data analysis
 
 [![PyPi](https://img.shields.io/badge/pypi%20package-0.0.1-blue)](https://pypi.org/project/quickdataanalysis/)
-[![](https://img.shields.io/github/release/Santhoshkumard11/quickdataanalysis.svg?colorB=58839b)](https://github.com/Santhoshkumard11/quickdataanalysis/releases) 
 [![](https://img.shields.io/github/license/Santhoshkumard11/quickdataanalysis.svg?colorB=00fff0)](https://github.com/Santhoshkumard11/quickdataanalysis/blob/master/LICENSE.md)
-
 [![Release](https://img.shields.io/badge/Next%20Release-Oct%2020-green)](https://pypi.org/project/quickdataanalysis/)
 ![Issues](https://img.shields.io/github/issues/Santhoshkumard11/quickdataanalysis)
-
-
 
 This packages allows you to kick start your data analysis and make faster insights of the data.
 
