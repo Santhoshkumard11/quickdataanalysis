@@ -28,7 +28,7 @@ The create_dummies method will return dummies for the columns. For example you w
 
 The count_values method will return the number of values in the columns. For example you want to count the number of females.
 
-    >>> count_values(df_train["female"],1,False)
+    >>> column_value_count(df_train["female"],1,False)
       312
 
 ## ToDo

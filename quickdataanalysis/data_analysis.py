@@ -29,13 +29,13 @@ def create_dummies(df,columns):
     dataframe_dummies = pd.concat(dummies,axis=1)
 
     df = pd.concat((df,dataframe_dummies),axis=1)
-
-	df.drop(columns,axis=1)
-	
+    
+    df.drop(columns,axis=1)
+    
     return df
 
 
-def count_values(df_row,value,bool_type=True):
+def column_value_count(df_row,value,bool_type=True):
     
     '''
         Returns the count of value
