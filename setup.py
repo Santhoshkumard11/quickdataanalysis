@@ -3,7 +3,7 @@ from pathlib import Path
 
 setuptools.setup(
     name="quickdataanalysis",
-    version="0.0.3",
+    version="0.0.5",
     description=('Kick start your data analysis with these functions'),
     long_description=Path("README.md").read_text(),
     long_description_content_type="text/markdown",
