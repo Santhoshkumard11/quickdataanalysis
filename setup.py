@@ -16,7 +16,7 @@ setuptools.setup(
         ' pandas>=1.0.1',
     ],
     classifiers=[
-        'Development Status :: 1 - Beta',
+        'Development Status :: 4 - Beta',
         'Operating System :: OS Independent',
         'Intended Audience :: Developers',
         'Programming Language :: Python',
