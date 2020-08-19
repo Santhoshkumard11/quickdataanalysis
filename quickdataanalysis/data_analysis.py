@@ -30,6 +30,8 @@ def create_dummies(df,columns):
 
     df = pd.concat((df,dataframe_dummies),axis=1)
 
+	df.drop(columns,axis=1)
+	
     return df
 
 
@@ -59,4 +61,3 @@ def count_values(df_row,value,bool_type=True):
     result = dict(total.value_counts()).get(bool_type)
     
     return result
-
