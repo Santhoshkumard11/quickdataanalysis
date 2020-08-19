@@ -22,8 +22,5 @@ setuptools.setup(
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
         'Topic :: Software Development :: Libraries'
-    ],
-    project_urls=[
-        "Source Code :: https://github.com/Santhoshkumard11/quickdataanalysis"
     ]
 )
